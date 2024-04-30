@@ -15,6 +15,8 @@ Control board for RGB LED strips, based on ESP8266 platform. Powered by DC jack 
 - 5 - G
 - 6 - R
 - 7 - VCC (5/12/24V)
+- H1 - VCC (5/12/24V)
+- H2 - GND
 
 Can be powered via DC jack connector or big holes in board.
 
